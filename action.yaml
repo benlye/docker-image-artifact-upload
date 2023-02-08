@@ -13,4 +13,4 @@ outputs:
     description: Name of artifact created in the process
 runs:
   using: "node16"
-  main: "dist/main.js"
+  main: "dist/index.js"
